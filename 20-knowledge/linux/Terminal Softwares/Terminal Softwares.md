@@ -1,0 +1,3 @@
+- **Impala** - Wifi connecting tool
+- **[[NeoVim Installation|NeoVim]]** - Terminal based text editor
+- **btop** - check ram usage, cpu usage like system monitor

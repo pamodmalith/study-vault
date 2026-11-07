@@ -1,0 +1,7 @@
+> [!lecture]
+## Octal Numbering
+
+
+
+> [!resources]
+> 

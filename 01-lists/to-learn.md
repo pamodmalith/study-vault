@@ -1,0 +1,4 @@
+- MonoRepo - [monorepo.tools](https://monorepo.tools/)
+- Monolith
+- Redis - [gemini chat](https://gemini.google.com/app/705537b33aee0ce9)
+- 

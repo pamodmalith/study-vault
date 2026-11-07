@@ -1,0 +1,14 @@
+- [x] Netbeans
+- [ ] Alpaca
+- [x] steam
+- [ ] flutter 
+- [ ] android 
+- [ ] android studio
+- [x] java 
+- [x] rust
+- [x] mysql workbench
+- [x] postgres
+- [x] lutris
+- [x] OBS
+- [x] Krename from flatpak
+- [x] rclone ui

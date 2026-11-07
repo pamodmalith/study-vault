@@ -1,0 +1,28 @@
+#### To review 
+- [x] Splash Screen
+- [x] Login Logic
+#### To Do
+- [x] Add Book
+- [x] Edit Book
+- [x] Book Panel
+- [x] Add new member
+- [x] Edit member
+- [x] member panel
+- [x] Logout
+- [x] Add new Book
+- [x] Edit Book
+- [x] Book Panel
+- [x] Login
+- [x] Dashboard
+- [x] Quick Actions
+- [x] Issue book
+- [x] Return Book
+- [x] HomeFrame All Logics
+- [x] Return Book
+- [x] member add validation for 
+	- [x] phone number
+	- [x] email
+- [x] user add validation for 
+	- [x] username
+- [x] Add loggers
+- [x] Add logger delete when closing

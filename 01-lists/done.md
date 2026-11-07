@@ -1,0 +1,7 @@
+- [ ] configure rclone
+	- [ ] learn some more about rclone
+- [x] configure syncthing
+- [x] lazyvim
+- [x] mysql
+- [ ] postgres
+- [ ] 
