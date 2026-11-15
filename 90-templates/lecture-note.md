@@ -1,8 +1,11 @@
 ---
+author:
+  - Pamod Malith
 type: lecture
-course: 
-topic: 
-date: {{date}}
+course:
+topic:
+date:
+  "{ date }":
 tags: []
 status: draft
 ---
@@ -23,7 +26,7 @@ status: draft
 ## Questions / I don't understand yet
 - TODO
 
-## Summary (write after the lecture, no looking)
+## Summary
 
 
 ## Related
