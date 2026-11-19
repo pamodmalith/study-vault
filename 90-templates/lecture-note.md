@@ -4,8 +4,7 @@ author:
 type: lecture
 course:
 topic:
-date:
-  "{ date }":
+date: {{date}}
 tags: []
 status: draft
 ---

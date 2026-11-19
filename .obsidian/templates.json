@@ -1,1 +1,4 @@
-{ "folder": "90-templates" }
+{
+  "folder": "90-templates",
+  "dateFormat": "YYYY-MM-DD"
+}
