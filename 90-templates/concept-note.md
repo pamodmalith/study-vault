@@ -1,7 +1,8 @@
 ---
 type: concept
-area: 
-date: {{date}}
+area:
+date:
+  "{ date }":
 tags: []
 status: draft
 ---
