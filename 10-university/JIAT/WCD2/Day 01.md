@@ -1,4 +1,6 @@
 ---
+author:
+  - Pamod Malith
 type: lecture
 course: WCD2
 topic:
